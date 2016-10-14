@@ -1,0 +1,36 @@
+body {
+  font-family: Helvetica, sans-serif;
+  font-size: 18px;
+}
+#bodyContainer {
+
+}
+#vehiclePreviewContainer {
+ width:
+}
+.vehicleImageMain {
+  display: block;
+}
+.vehicleDetailContainer {
+  width: 800px;
+  height: 500px;
+}
+.VDCleft {
+  width: 400px;
+  float: left;
+}
+.VDCright {
+  width: 400px;
+  float: right;
+}
+.volvoButton {
+  background-color: #033057;
+  color: #ffffff;
+  text-decoration: none;
+  padding: 7px 15px;
+  display: -inline-block;
+  line-height: 2.2;
+}
+.volvoButton:hover {
+  background-color: #032644;
+}
